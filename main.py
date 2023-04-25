@@ -51,7 +51,7 @@ GAME_IMAGES["numbers"] = (
         "asset/8.png"
     ).convert_alpha(),
     pygame.image.load(
-        "asset/9.png"
+        "asset/0.png"
     ).convert_alpha()
 )
 GAME_IMAGES["player"] = pygame.image.load(PLAYER).convert_alpha()
