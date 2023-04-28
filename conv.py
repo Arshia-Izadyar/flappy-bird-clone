@@ -1,6 +1,6 @@
 def path_convert():
     while True:
-        st = str(input("linko bede dapsh :\n"))
+        st = str(input("PATH :\n"))
         print("CONVERTED:\n", "-"*80)
         print(st.replace("\\", "/"), "\n\n")
         if st == "exit":
