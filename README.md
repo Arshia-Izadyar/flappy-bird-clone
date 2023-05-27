@@ -1,6 +1,6 @@
 # flappy-bird2.0
 
-this is a flappy-bird clone 🐥			
+this is a flappy-bird clone 🐥\n
 written in python with pygame 🎮
 press Esc or up arrow key to start ⬆️
 press Space or up arrow key to jump 🦘
