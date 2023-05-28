@@ -1,5 +1,5 @@
 import random
-
+# local import
 from static_variables import GAME_SOUNDS, ground_y, GAME_IMAGES, SCREEN_HIGHT, SCREEN_WIDTH
 
 

@@ -8,7 +8,6 @@ ground_y = SCREEN_HIGHT * 0.8
 GAME_IMAGES = {}
 GAME_SOUNDS = {}
 
-# SCREEN_WIDTH
 
 PLAYER = "asset/bluebird-upflap.png"
 BACK_GROUND = "asset/background-day.png"
