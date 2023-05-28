@@ -14,7 +14,7 @@ How to paly :
 
 1) first install pygame	
 	
-		pip install pygame==3.2.0
+		pip install pygame==2.3.0
 		
 2) or install from requirements.txt
 
