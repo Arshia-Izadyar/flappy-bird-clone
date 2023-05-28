@@ -4,10 +4,38 @@ this is a flappy-bird clone 🐥
 
 written in python with pygame 🎮
 
-press Esc or up arrow key to start ⬆️
+How to paly :
 
-press Space or up arrow key to jump 🦘
+   
+
+  
+
+
+
+1) first install pygame	
 	
+		pip install pygame==3.2.0
+		
+2) or install from requirements.txt
+
+		pip install -r requirements.txt
+
+3) run the game in terminal (Windows)
+
+		py main.py
+		
+4) run the game in terminal (Linux or Mac)
+
+		python main.py
+
+5) press up arrow key to start ⬆️
+
+6) press Space or up arrow key to jump 🦘
+
+7) press Esc to quit
+		
+
+
 
 
 ENJOY ✌️
