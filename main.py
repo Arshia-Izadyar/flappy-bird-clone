@@ -3,6 +3,7 @@ from pygame.locals import *
 import sys
 from welcome_page import welcome_screen
 
+# local import
 from static_variables import fps_clock, FPS, SCREEN_WIDTH, SCREEN_HIGHT, GAME_SOUNDS, GAME_IMAGES, ground_y, SCREEN
 from utils import get_random_pipe, is_collide
 

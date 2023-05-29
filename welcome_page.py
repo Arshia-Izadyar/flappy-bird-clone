@@ -1,7 +1,7 @@
 import sys
 import pygame
 from pygame.locals import KEYDOWN, QUIT, K_ESCAPE, K_UP
-
+# local import
 from static_variables import SCREEN_WIDTH, SCREEN_HIGHT, GAME_IMAGES, SCREEN, fps_clock, ground_y, FPS
 
 
