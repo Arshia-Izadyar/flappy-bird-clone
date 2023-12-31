@@ -47,7 +47,7 @@ GAME_IMAGES["numbers"] = (
         "asset/8.png"
     ).convert_alpha(),
     pygame.image.load(
-        "asset/0.png"
+        "asset/9.png"
     ).convert_alpha()
 )
 GAME_IMAGES["player"] = pygame.image.load(PLAYER).convert_alpha()
@@ -58,21 +58,21 @@ GAME_IMAGES["pipe"] = (
 )
 GAME_IMAGES["title"] = pygame.image.load(TITLE).convert_alpha()
 GAME_IMAGES["ground"] = pygame.image.load(
-    "D:/Code/flappy/flappy-bird-assets-master/sprites/base.png"
+    "asset/base.png"
 ).convert_alpha()
 GAME_IMAGES["message"] = pygame.image.load(
-    "D:/Code/flappy/flappy-bird-assets-master/sprites/gameover.png"
+    "asset/gameover.png"
 ).convert_alpha()
 
 # add sounds
 
 GAME_SOUNDS["hit"] = pygame.mixer.Sound(
-    "D:/Code/flappy/flappy-bird-assets-master/audio/hit.wav")
+    "asset/hit.wav")
 GAME_SOUNDS["die"] = pygame.mixer.Sound(
-    "D:/Code/flappy/flappy-bird-assets-master/audio/die.wav")
+    "asset/die.wav")
 GAME_SOUNDS["point"] = pygame.mixer.Sound(
-    "D:/Code/flappy/flappy-bird-assets-master/audio/point.wav")
+    "asset/point.wav")
 GAME_SOUNDS["swoosh"] = pygame.mixer.Sound(
-    "D:/Code/flappy/flappy-bird-assets-master/audio/swoosh.wav")
+    "asset/swoosh.wav")
 GAME_SOUNDS["wing"] = pygame.mixer.Sound(
-    "D:/Code/flappy/flappy-bird-assets-master/audio/wing.wav")
+    "asset/wing.wav")
